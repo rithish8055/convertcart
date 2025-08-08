@@ -4,7 +4,6 @@
   
  **Live deployment link**
 Frontend: https://convertcart-frontend.vercel.app
-Backend: https://convertcart-backend.vercel.app
 
 
  **Setup Instructions**
@@ -83,7 +82,7 @@ Segmentation rules can be applied using JSON input via the /segment API.
     }
 ** Links to Live Frontend/Backend Demos**
 Frontend: https://convertcart-frontend.vercel.app
-Backend: https://convertcart-backend.vercel.app
+
 
 **Tools**
 ● GitHub repository with clean commit history
